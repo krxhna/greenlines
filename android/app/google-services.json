@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965232689144",
+    "project_id": "greenlines-69a5c",
+    "storage_bucket": "greenlines-69a5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965232689144:android:cc9761789bdf4bb63c200d",
+        "android_client_info": {
+          "package_name": "app.finance.greelines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965232689144-pc8fipl1u6nhodthga23nciab9f9ngl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZtkjnfQqz56TZqNtVnKamRtUKDpx1_pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965232689144-pc8fipl1u6nhodthga23nciab9f9ngl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
